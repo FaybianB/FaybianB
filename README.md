@@ -2,10 +2,10 @@
 
 I am a Blockchain Engineer building upon over 9 years of Web2 experience as a Full-Stack Developer. Here, you can find a diverse range of projects showcasing my expertise in smart contract development (Solidity), front-end development using React, Next.js, and more.
 
-### Certifications
-- Certified Solidity Developer by Blockchain Council
-- Certified Blockchain Security Expert by 101 Blockchains
-- CompTIA Security+
+### Certifications 🥇:
+- [Certified Solidity Developer by Blockchain Council](https://www.credential.net/0df4d84e-13ee-411c-b9e1-c021e584db69)
+- [Certified Blockchain Security Expert by 101 Blockchains](https://www.credential.net/554df820-989b-4db6-8b21-46b25e402359)
+- CompTIA Security+ (Source: Trust Me Bro)
 
 <h2 align="center">Github Stats :bar_chart:</h2>
 
