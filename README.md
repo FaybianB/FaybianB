@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Blockchain Engineer building upon over 9 years of Web2 experience as a Full-Stack Developer. Here, you can find a diverse range of projects showcasing my expertise in smart contract development (Solidity), front-end development using React, Next.js, and more.
+I am a Blockchain Engineer building upon over 9 years of Web2 experience as a Full-Stack Developer. Here, you can find a diverse range of projects showcasing my expertise in smart contract development (Solidity), front-end development using React, Next.js, and my interest in artificial intelligence.
 
 ### Certifications 🥇:
 - [Certified Solidity Developer by Blockchain Council](https://www.credential.net/0df4d84e-13ee-411c-b9e1-c021e584db69)
